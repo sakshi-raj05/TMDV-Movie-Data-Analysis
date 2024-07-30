@@ -89,7 +89,7 @@ To use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movies-success-prediction.git
+   git clone https://github.com/sakshi-raj05/movies-success-prediction.git
 
 2. Navigate to the project directory:
   ```bash
